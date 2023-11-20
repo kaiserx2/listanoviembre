@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Televisa Guadalajara" , Televisa Guadalajara * | MX
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="CINEAR" , CINEAR * | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1301333061.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="DEPORTV En Vivo AR", DEPORTV En Vivo * | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1399265407.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="Top Latino TV En Vivo", Top Latino TV * |UR
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w2056395454.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="CARTONN NETWORKLA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network-1.png",CARTONN NETWORKLA * | PE
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="LATINA" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_latina_brandlab.jpg",LATINA * | PE
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&PlaylistKAISER
+
+#EXTINF:-1 tvg-id="8" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png", ATV * | PE
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png",TV PERU * | PE
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="CGTN Espanol-china", CGTN Espanol-china * | CHN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="DW ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",DW ESPAÑOL * | PE
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
